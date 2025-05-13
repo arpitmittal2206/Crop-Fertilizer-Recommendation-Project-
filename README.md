@@ -1,4 +1,4 @@
-**🌾 Crop and Fertilizer Recommendation System**
+**🌾 Crop Recommendation System**
 This project is a Machine Learning-based Crop and Fertilizer Recommendation System developed using Python and Jupyter Notebook. It helps farmers and agricultural professionals choose the most suitable crop and fertilizer based on soil and environmental parameters.
 
 🔍 Work Done in the Project
